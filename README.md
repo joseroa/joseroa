@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose Antonio Mendoza Roa</h1>
 <h3 align="center">A passionate Sysadmin / developer from Mexico </h3>
 
-- 🔭 I’m currently working on [Technical Support Engineer](www.zabbix.com)
+- 🔭 I’m currently working on [Cloud Engineer- Linux](www.escala24x7.com.com)
 
 - 📫 How to reach me **roa@unixmexico.org**
 
